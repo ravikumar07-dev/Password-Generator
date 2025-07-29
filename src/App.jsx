@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { IoCopy } from "react-icons/io5";
 import { toast, ToastContainer } from "react-toastify";
-// import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 
 function App() {
